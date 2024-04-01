@@ -8,8 +8,8 @@ To simulate a model, simply download and run the script.
 
 Future update
 -------------
-Repo to be updated 
-CelluLink to be implemented as a Python package
-Functions within the scripts to be implemented as modules
-Import functions from modules into main.py
-Run main.py
+Repo to be updated \
+CelluLink to be implemented as a Python package \
+Functions within the scripts to be implemented as modules \
+Import functions from modules into main.py \
+Run main.py \
